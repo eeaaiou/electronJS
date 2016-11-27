@@ -1,0 +1,17 @@
+{
+  "name": "electronjs",
+  "version": "1.0.0",
+  "description": "ElectronJS eğitimi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electronjs",
+    "electron",
+    "framework",
+    "angular2"
+  ],
+  "author": "Eser Danacıoğlu www.simpleisdifficult.com",
+  "license": "ISC"
+}
