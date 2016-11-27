@@ -7,5 +7,7 @@ class deneme {
         return this.value +" "+value;
     }
 
-    constructor() {}
+    constructor(public message:string) {
+        console.log(this.message);
+    }
 }
