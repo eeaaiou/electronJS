@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="323c325f-a3e5-4c40-a348-cc07ae97eca6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample.ts" afterPath="$PROJECT_DIR$/sample.ts" />
     </list>
     <ignored path="ElectronJS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -312,7 +311,7 @@
       <option name="presentableId" value="Default" />
       <updated>1480240501826</updated>
       <workItem from="1480240503059" duration="1519000" />
-      <workItem from="1480242105157" duration="1719000" />
+      <workItem from="1480242105157" duration="2124000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1480241999992</created>
@@ -367,7 +366,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3238000" />
+    <option name="totallyTimeSpent" value="3643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="30" width="1276" height="1336" extended-state="0" />
